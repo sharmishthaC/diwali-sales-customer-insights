@@ -1,5 +1,7 @@
 # Diwali Sales & Customer Insights
 
+![Diwali Sales Dashboard](screenshots/dashboard.png)
+
 An interactive sales analytics dashboard built using Python, Pandas, Plotly, and Streamlit.
 
 ## Project Overview
